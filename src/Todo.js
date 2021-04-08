@@ -13,5 +13,4 @@ function Todo(props) {
         </List>
     )
 }
-
 export default Todo
