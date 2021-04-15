@@ -6,7 +6,6 @@ import './Todo.css';
 
 function Todo(props) {
 
-
     return (
         <List className="todo__list">
             <ListItem>
